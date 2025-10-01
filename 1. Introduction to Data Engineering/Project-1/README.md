@@ -335,5 +335,4 @@ visualizations to analyze the data. You will carry out the analysis in Jupyter N
 5.1. Open the notebook *C1_W2_Dashboard.ipynb* and follow the 
 instructions there.
 
-After you go through the instructions of the notebook file, 
-submit your lab by clicking on **Submit assignment** (top right corner).
+After you go through the instructions of the notebook file
